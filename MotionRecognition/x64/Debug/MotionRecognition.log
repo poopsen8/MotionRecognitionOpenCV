@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  MotionRecognition.vcxproj -> C:\Users\poopsen8\source\MotionRecognition\x64\Debug\MotionRecognition.exe
